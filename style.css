@@ -68,15 +68,18 @@ button{
 footer{
     display: flex;
     justify-content: end;
-    position: absolute;
+    position: fixed;
     bottom: 0;
+    left: 0;
+    right:0;
     background-color:rgba(247, 193, 162, 0.7) ;
     
     
 }
 
 .child3{
-    margin-right: 300px;
+    margin-right: 305px;
+    margin-left: 10px;
     color:#000;
 }
 

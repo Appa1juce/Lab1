@@ -1,0 +1,128 @@
+@media screen and (max-width: 786px) {
+
+    
+    
+
+    html{
+        background-color: #f9fafc;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .parent{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    #chrip{
+        color: #000;
+    }
+
+    .child{
+        margin-top: 10px;
+        margin-left: 10px;
+        color:#69696a
+    }
+
+    .child4{
+        margin-top: 10px;
+        margin-left: 10px;
+    }
+
+    a{
+        text-decoration: none;
+        
+    }
+
+button{
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.parent2{
+    display: flex;
+    flex-direction: column;
+}
+
+#row2{
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#lorem{
+    color:#69696a;
+    border-left: solid #69696a;
+    margin-left: 10px;
+    padding-left: 10px;
+    
+}
+
+#action{
+    margin-top: 20px;
+}
+
+
+footer{
+    display: flex;
+    justify-content: end;
+    position: absolute;
+    bottom: 0;
+    background-color:rgba(247, 193, 162, 0.7) ;
+    
+    
+}
+
+.child3{
+    margin-right: 300px;
+    color:#000;
+}
+
+.child2{
+    margin-left:20px;
+    color:#69696a;
+    
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

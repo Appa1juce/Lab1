@@ -73,7 +73,8 @@ footer{
     left: 0;
     right:0;
     background-color:rgba(247, 193, 162, 0.7) ;
-    
+    padding-top: 5px;
+    padding-bottom: 5px;
     
 }
 
